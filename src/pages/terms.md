@@ -3,51 +3,53 @@ title: 'Terms and Conditions'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
+_Last updated_: March 06, 2025
 
-Please read these terms and conditions carefully before using Our Service.
+These Terms of Service (the “Terms”) apply to the products and services of Hiajoy.com, Inc. and our subsidiaries and affiliates (Hiajoy,” “we,” or “us”), including our websites, hiajoy apps, social media pages, software applications, and other online services (collectively, the “Services”).
+## Agreement to Terms
+PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THIS SITE. BY USING THIS SITE AND APPS, YOU SIGNIFY YOUR ASSENT TO THESE TERMS OF USE. IF YOU DO NOT ACCEPT THESE TERMS OF USE, DO NOT USE THIS SITE AND APPS.
 
-## Interpretation and Definitions
+## Additional Terms
 
-### Interpretation
+We may also have different or additional terms in relation to some of the Services. Unless we say otherwise in those terms, those terms supplement and are part of these Terms and will control to the extent there is a conflict with these Terms.
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+## Service Use
 
-### Definitions
+### Eligibility
+You must be 16 years or older to use the Services. If you are under the age of majority where you live, you may only use the Services if your parent or guardian agrees to our Terms. Please read these Terms with them. If you are a parent or legal guardian of a user under the age of majority where you live, you are subject to these Terms and responsible for your child’s activity on the Services.
 
-For the purposes of these Terms and Conditions:
+### Account Registration and Security
+To use many of the Services, you must register for an account. You must provide accurate account information, keep this information updated, and maintain the security of your account. Notify us immediately by email at admin@hiajoy.com of any unauthorized use of your account or any other breach of security. You are responsible for all activities that occur in connection with your account to the extent permitted by applicable law. You agree not to create an account if we have previously removed you or your account from any of the Services, unless we expressly agree otherwise.
 
-- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+## Subscriptions
+This section provides terms related to the Services that are only available with a paid subscription ("Hiajoy Premium”).
+### Recurring Subscriptions
+If you purchase a recurring subscription to use Hiajoy Premium (“Recurring Subscriptions”), the subscription will be continuous for the subscription period you select and will automatically renew for another subscription period until canceled. You authorize Hiajoy to automatically charge your designated payment method at the beginning of each subscription period for the then-current price of your Recurring Subscription, along with any applicable taxes and fees specified, unless canceled in accordance with cancellation terms. If we are not able to charge your payment method for your Recurring Subscription, you remain responsible for any uncollected amounts.
 
-- **Country** refers to: California, United States
+### Cancellation
+ You must cancel your Recurring Subscription at least 24 hours before the end of your current subscription period to avoid being charged for the next subscription period. If you purchased your Recurring Subscription via hiajoy.com, you can cancel at https://hiajoy.com/account. If you purchased your Recurring Subscription through a third-party, like the Apple app store or Google play store, you must cancel the renewal directly with that third-party. Only the primary account holder of a family plan may cancel a family plan subscription. View our support page or contact us by email at support@hiajoy.com if you need assistance with canceling a Recurring Subscription. If you cancel, you are not entitled to a refund for the fees you already paid, but, subject to these Terms, you will continue to receive access to Hiajoy Premium until the end of your current subscription period.
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AstroWind LLC, 1 Cupertino, CA 95014.
+ ### Changes
+ We may make changes to your Recurring Subscription, including price changes. We will communicate material changes to your Recurring Subscription, including any changes to the price, in advance to the email address associated with your account. If you do not agree to those changes, you can cancel your subscription as described in cancellation section.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-- **Service** refers to the Website.
+## Other Payments Terms
+### Payment Method
+If you purchase a subscription, gift card, or other item through the Services, you must provide an accurate and up-to-date payment method acceptable by us. You authorize Hiajoy to charge any purchase to your designated payment method, including the then-current price plus any applicable taxes and fees specified. No transaction is binding on Hiajoy until accepted and confirmed by Hiajoy. We may update your stored payment method using information provided by our payment service providers. Following any update, you authorize us to continue to charge the applicable payment method(s). You are responsible for any additional charges that your payment method provider charges.
 
-- **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement is a Demo.
+### Cancellations and Disputes
+If you have any concerns regarding any transactions through the Services, you must raise them with us first and not cancel or reverse charges through your payment method provider unless you have made a reasonable attempt to resolve the matter directly with us or otherwise as provided by applicable law. Hiajoy reserves the right to verify your identity or request more information in connection with your purchases, and not to process or to cancel purchase requests, including if we suspect fraud or if your payment method is declined.
 
-- **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+### Refunds
+You will not have the right to receive a refund for any amounts paid to us unless otherwise required by applicable law.
 
-- **Website** refers to AstroWind, accessible from [https://astrowind.vercel.app](https://astrowind.vercel.app)
+### Future Functionality
+Your purchases are not contingent on the delivery of any current or future functionality, content, or features, or dependent on any oral or written public comments made by Hiajoy regarding such functionality or features.
 
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+## Restrictions on Use of Materials
+The copyright in all material provided on this Site (“Site”) and apps is held by Hiajoy. Except as stated herein, no material from the Site or any website owned, operated, licensed or controlled by Hiajoy, may be copied, reproduced, republished, uploaded, posted, transmitted or distributed in any way. Any unauthorized use of any material contained on this Site and apps may violate copyright laws, trademark laws and other laws.
 
-## Acknowledgment
-
-These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
-
-Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
-
-By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
-
-You represent that you are over the age of 18\. The Company does not permit those under 18 to use the Service.
-
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
-
-## Links to Other Websites
+## Linking
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
 
@@ -55,11 +57,12 @@ The Company has no control over, and assumes no responsibility for, the content,
 
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
 
-## Termination
+## Modifying and Terminating the Services
+We may change or discontinue any or all or any parts of the Services, at any time and without notice, at our sole discretion, for any purpose, including to make improvements, address technical needs, and help prevent damage to users or the Services. You also have the right to stop using the Services at any time. To the extent permitted by applicable laws, we are not responsible for any loss or harm related to your inability to access or use the Services.
 
-We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+## Changes to Terms
+We may make changes to these Terms by notifying you of the changes, including by posting the revised Terms on the applicable Services or providing additional notice (like by email or via in-service message). For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. Except as specified in section 16, disputes arising under these Terms will be resolved in accordance with the version of these Terms in place at the time the dispute arose. Unless we indicate otherwise in our notice, your use of the Services following the effective date of any changes to these Terms will constitute your acceptance of such changes. If you do not agree to the updated Terms, you should terminate your account and stop using the Services.
 
-Upon termination, Your right to use the Service will cease immediately.
 
 ## Limitation of Liability
 
@@ -68,14 +71,6 @@ Notwithstanding any damages that You might incur, the entire liability of the Co
 To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
 
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
-
-## "AS IS" and "AS AVAILABLE" Disclaimer
-
-The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
-
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
-
-Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
 ## Governing Law
 
@@ -107,14 +102,8 @@ Except as provided herein, the failure to exercise a right or to require perform
 
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
 
-## Changes to These Terms and Conditions
-
-We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
-
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
 ## Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: somecoolemail@domain.com
+- By email: admin@hiajoy.com
