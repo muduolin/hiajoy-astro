@@ -1,0 +1,26 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import { getHomePermalink } from '~/utils/permalinks';
+import Hero from '~/components/widgets/Hero.astro';
+
+const title = `Plan to relieve anxiety`;
+---
+
+<Layout metadata={{ title }}>
+    <Hero
+    image={{ src: '~/assets/images/hero-image-o.png', alt: 'Hiajoy main image' }}
+  >
+    <Fragment slot="title">
+      Start a few <span class="hidden xl:inline"></span>
+      <span class="text-accent dark:text-white highlight"> Tasks </span> today to manage Anxiety
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      It might seem impossible and you think this would not help. However, tiny things do help alleviate anxiety. 
+      
+      Start today with a few simple tasks. They could be your work, or simple as "say kind words to my love ones", or care for yourself like "treat me with a nice cup of tea.".
+
+      Remember, tiny things goes a long way.
+    </Fragment>
+  </Hero>
+</Layout>
