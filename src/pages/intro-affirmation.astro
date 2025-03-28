@@ -1,0 +1,25 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import Logo from '~/components/Logo.astro';
+import Hero from '~/components/widgets/Hero.astro';
+
+const title = `Plan to relieve anxiety`;
+---
+
+<Layout metadata={{ title }}>
+    <Hero
+    image={{ src: '~/assets/images/hero-image-o.png', alt: 'Hiajoy main image' }}
+  >
+    <Fragment slot="title">
+      Daily <span class="hidden xl:inline"></span>
+      <span class="text-accent dark:text-white highlight"> Affirmation </span> is a powerful instrument
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      It takes less than a minute to do but it constantly reminds your anxious mind with positive encouragement. It is especially important 
+      when you are being pushed around by racing thoughts and being hooked by negative thinking. The affirmation will interrupt the thoughts and give your 
+      mind a little bit of relieve. Do this several times a day.
+    </Fragment>
+  </Hero>
+  <Logo />
+</Layout>
