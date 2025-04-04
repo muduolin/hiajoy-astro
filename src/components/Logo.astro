@@ -1,11 +1,27 @@
 ---
 import { SITE } from 'astrowind:config';
 import { Image } from 'astro:assets';
-import logo from '../assets/favicons/favicon.svg'; 
+import logo from '../assets/favicons/favicon.svg';
 ---
 
-<span
-  class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white"
+<!--div
+  class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white bg-red-500 flex"
 >
-<Image class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src={logo} alt="onWidget logo" loading="lazy"></Image> {SITE?.name}
-</span>
+  <div>
+    <Image
+      class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-slate-600 mt-6"
+      src={logo}
+      alt="Hiajoy manage stress and anxiety"
+      loading="lazy"
+    />
+  </div>
+
+  <div class="align-top font-mono bg-slate-400">{SITE?.name}</div>
+</div-->
+
+<div class="flex p-5">
+  <div class="">
+    <Image class="w-6 h-6" src={logo} alt="Hiajoy manage stress and anxiety" loading="lazy" />
+  </div>
+  <div class="text-xl font-bold pl-2">{SITE?.name}</div>
+</div>
