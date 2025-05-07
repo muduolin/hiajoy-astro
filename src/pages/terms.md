@@ -21,6 +21,9 @@ You must be 16 years or older to use the Services. If you are under the age of m
 ### Account Registration and Security
 To use many of the Services, you must register for an account. You must provide accurate account information, keep this information updated, and maintain the security of your account. Notify us immediately by email at admin@hiajoy.com of any unauthorized use of your account or any other breach of security. You are responsible for all activities that occur in connection with your account to the extent permitted by applicable law. You agree not to create an account if we have previously removed you or your account from any of the Services, unless we expressly agree otherwise.
 
+### Account Deletion
+You can delete your account in Hiajoy app's settings section. The deletion will be complete and thorough. All data will be deleted and not recoverable. Personalized information such as tasks or journals can be deleted within the app. Contact admin@hiajoy.com if you want your account be deleted.
+
 ## Subscriptions
 This section provides terms related to the Services that are only available with a paid subscription ("Hiajoy Premium”).
 ### Recurring Subscriptions
