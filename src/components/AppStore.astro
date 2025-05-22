@@ -1,0 +1,14 @@
+---
+import { Image } from 'astro:assets';
+import apple from '../assets/images/app-store.png';
+import google from '../assets/images//google-play.png';
+---
+
+<div class="flex items-center justify-center">
+  <a class="w-40 h-24" href="https://apps.apple.com/us/app/hiajoy/id6743452408">
+    <Image src={apple} alt="Hiajoy: instant stress and anxiety relief" loading="lazy" />
+  </a>
+  <a class="w-40 h-24" href="https://apps.apple.com/us/app/hiajoy/id6743452408">
+    <Image src={google} alt="Hiajoy: instant stress and anxiety relief" loading="lazy" />
+  </a>
+</div>

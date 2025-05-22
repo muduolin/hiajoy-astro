@@ -5,7 +5,7 @@ export const headerData = {
     {
       text: 'Homes',
       
-      href: '#',
+      href: '/',
       /*links: [
         {
           text: 'SaaS',
@@ -28,7 +28,7 @@ export const headerData = {
     {
       text: 'Products',
       
-      href: '#',
+      href: '/pricing',
       /*links: [
         {
           text: 'Features (Anchor Link)',
@@ -115,8 +115,8 @@ export const headerData = {
       ],
     },*/
     {
-      text: 'Features',
-      href: '#',
+      text: 'Blog',
+      href: 'blog',
     },
   ],
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],

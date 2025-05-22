@@ -1,24 +1,34 @@
 ---
-publishDate: 2023-08-12T00:00:00Z
-author: John Smith
-title: Get started with AstroWind to create a website using Astro and Tailwind CSS
-excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
+publishDate: 2025-05-21T00:00:00Z
+author: Hiajoy
+title: 3 Common Mistakes When Dealing with Anxiety (And How to Fix Them)
+excerpt: The more you fight anxiety, the stronger it becomes.
 image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-category: Tutorials
+category: Anxiety
 tags:
-  - astro
-  - tailwind css
+  - hiajoy
+  - instant anxiety relief
 metadata:
-  canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
+  canonical: https://www.hiajoy.com/3-mistakes-dealing-with-anxiety
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Anxiety is one of the most common mental health challenges, affecting millions of people worldwide. Whether it manifests as persistent worry, panic attacks, or overwhelming stress, anxiety can significantly impact daily life. Therapy, medication, and lifestyle changes are well-known treatments. However, when stress and anxiety first hit, most people do not understand hence took wrong approaches resulting in more anxiety.
 
-## Nostra torquent consequat volutpat aliquet neque
+### Avoiding Anxiety Instead of Accepting It
+When stress and anxiety strike, your first instinct might be to push the uncomfortable thoughts away. You distract yourself, skip social events, procrastinate, or try to "forget" the feelings—but this only makes things worse.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit proin, aenean litora volutpat urna egestas magnis arcu non, cras ut cursus et sed morbi lectus. Integer faucibus sagittis eu nunc urna aliquet a laoreet torquent, suspendisse penatibus nulla sollicitudin congue rutrum dictum. Ornare mi habitasse fermentum phasellus dui et morbi litora sodales dictum id erat, nibh purus class ligula aenean lectus venenatis euismod cras torquent ac. Senectus sagittis conubia hendrerit at egestas porta venenatis nisi metus gravida tempor, aenean facilisis nisl ante facilisi lacus integer hac iaculis purus. Scelerisque libero torquent egestas curae tellus viverra inceptos imperdiet urna, porta suspendisse interdum primis odio morbi tempor commodo dictumst, suscipit ornare habitasse semper feugiat cras quisque lobortis.
+Trying to suppress anxious thoughts is like being told, "Don’t think about a white bear." What happens? Your mind fixates on it even more. The harder you fight anxiety, the stronger it becomes.
+ `output`
+#### What to Do Instead:
 
-Iaculis arcu commodo dis proin vitae himenaeos, ante tristique potenti magna ligula, sagittis libero fermentum ullamcorper sociis. Sem eros non arcu natoque fringilla lacus vestibulum lacinia integer mus viverra in proin, sagittis fusce tortor erat enim rutrum vulputate curae laoreet class diam. Inceptos convallis ac nisi natoque nam quisque magnis ut nullam fringilla curae, luctus lacus purus habitant erat magna molestie class habitasse metus, nibh lobortis tortor curabitur neque phasellus feugiat netus morbi parturient. Neque malesuada mauris justo himenaeos pharetra, ullamcorper enim ligula a nulla consequat, eget vivamus velit ridiculus.
+Dr. Claire Weekes had summerized her approach facing the feared situation, accepting the feeling of panic, floating through it, and letting time pass. This had proven to help many sufferers.
+
+A modern technique is grounding using mindfulness. 
+
+Practice Grounding: When overwhelmed, pause and let the thoughts flow without judgment. Acknowledge them: "I’m having anxiety about [specific worry]."
+
+Engage Your Senses: Slow racing thoughts by focusing on the present. Observe small details—like the texture of a pencil, its color, or the scent of the air. This shifts your brain from panic mode to curiosity mode.
+
 
 ## Praesent tellus ad sapien erat or
 

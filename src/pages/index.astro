@@ -11,6 +11,7 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
+import AppStore from "~/components/AppStore.astro";
 
 const metadata = {
   title: 'Hiajoy — Anxiety management',
@@ -19,17 +20,19 @@ const metadata = {
 ---
 
 <Layout metadata={metadata}>
+
+  <AppStore />
   <!-- Hero Widget ******************* -->
   <Hero
     actions={[
       {
         variant: 'primary',
         text: 'Join now',
-        href: '#',
+        href: '/pricing',
         target: '_blank',
         icon: 'tabler:arrow-right',
       },
-      { text: 'Learn more', href: '#features' },
+      { text: 'Learn more', href: '/3-mistakes-dealing-with-anxiety' },
     ]}
     image={{ src: 'https://hiajoy.blob.core.windows.net/images/main/080.jpg', alt: 'Hiajoy main image' }}
   >
@@ -39,10 +42,7 @@ const metadata = {
     </Fragment>
 
     <Fragment slot="subtitle">
-      <span class="hidden sm:inline">
-        <span class="font-semibold">Hiajoy</span> is an innovative platform for managing stress and anxiety.</span>
-      <span class="block mb-1 sm:hidden font-bold text-blue-600"></span>
-      Combining courses, exercises, meditation, journaling and tasks management, Hiajoy guides you through the difficult situation and give you the powerful tool to manage stress and anxiety.
+      Overwhelmed by unrelenting thoughts? Trying to get rid of anxiety? Maybe what you did was <span class="font-semibold">wrong</span> all along. Find the relief in minutes.
     </Fragment>
   </Hero>
 
