@@ -7,14 +7,14 @@ import Steps from '~/components/widgets/Steps.astro';
 import Features3 from '~/components/widgets/Features3.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 import AppStore from '~/components/AppStore.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Image from "astro/components/Image.astro";
 const metadata = {
   title: 'Pricing',
 };
 ---
 
 <Layout metadata={metadata}>
-  <AppStore />
-  <!-- HeroText Widget ******************* -->
 
   <HeroText
     tagline="Hiajoy Cross Platform Apps"
@@ -22,6 +22,18 @@ const metadata = {
     subtitle="Designed to combat stress and anxiety, Hiajoy is a dynamic platform that combines educational courses, mindfulness exercises, meditation practices, journaling, and task management. It empowers you with effective strategies to handle life’s difficulties with confidence."
   />
 
+  <AppStore />  
+  
+  <Image
+    class="mx-auto rounded-md w-full"
+    widths={[400, 768, 1024, 2040]}
+    sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+    loading="eager"
+    width={1024}
+    height={576}
+    src="https://hiajoy.blob.core.windows.net/images/main/081.jpg"
+    alt="Hiajoy Hero Image"
+  />
   <!-- Pricing Widget ******************* 
 
   <Prices

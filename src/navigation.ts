@@ -26,9 +26,9 @@ export const headerData = {
       ],*/
     },
     {
-      text: 'Products',
+      text: 'iOS & Android Apps',
       
-      href: '/pricing',
+      href: '/apps',
       /*links: [
         {
           text: 'Features (Anchor Link)',

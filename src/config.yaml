@@ -1,6 +1,6 @@
 site:
   name: Hiajoy
-  site: 'https://astrowind.vercel.app'
+  site: 'https://www.hiajoy.com'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: Hiajoy
+    template: '%s — Hiajoy'
+  description: "5 minute anxiety relief, long term calm life style"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Hiajoy
     images:
       - url: '~/assets/images/default.png'
         width: 1200
